@@ -352,6 +352,7 @@
  font-size: 18px;
  font-weight: normal;
  color: white;
+ list-style: none;
 }
 
 .footer___column_content_social {
@@ -368,8 +369,4 @@
   height: 16px;
   width: 16px;
   padding-top: auto;
-}
-
-li {
-  list-style-type: none;
 }
