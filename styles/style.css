@@ -318,6 +318,7 @@
 }
 
 .footer__columns {
+
   width: 90%;
   margin-left: auto;
   margin-right: auto;
@@ -327,6 +328,7 @@
   margin: 0;
   display: flex;
   justify-content:space-between;
+  min-height: 350px;
 }
 
 .footer__column_content_copyright {
@@ -392,6 +394,7 @@
   font-weight: 600;
   color: white;
   flex-direction: column;
+  justify-content: flex-start;
 }
 
 .footer__social-icon {
