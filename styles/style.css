@@ -330,6 +330,7 @@
 }
 
 .footer__column_content_copyright {
+  min-height: 350px;
   margin: 0;
   flex-basis: 711px;
   display:flex;
@@ -357,7 +358,7 @@
   margin: 0;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-start;
 
 
 }
@@ -395,7 +396,7 @@
   color: white;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-start;
 }
 
 .footer__social-icon {
