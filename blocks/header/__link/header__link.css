@@ -3,7 +3,3 @@
   color: #2f80ed;
   text-decoration: none;
 }
-
-.header__link:hover {
-  animation: opacity 2s linear forwards;
-}
